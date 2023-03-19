@@ -5,8 +5,8 @@ expectations and an interest in security. Proficient in creating user-friendly
 and visually appealing interfaces, with a passion for using
 emerging technologies for enhanced user experience.
 
-- Here, you will see my work and course projects so far.
+- Here, you will see my personal projects as well as my course projects so far.
 - I am currently working on my capstone project at the University of Regina.
-- I am also working on developing a portfolio website that will showcase all my work so far.
-- I am currently learning React and React Native 😁
+- My portfolio website is live. You can visit and see my most recent works. I will be updating with my capstone and others soon!
+- I am currently learning Python and Django :)
 
