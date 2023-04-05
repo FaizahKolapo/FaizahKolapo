@@ -8,5 +8,5 @@ emerging technologies for enhanced user experience.
 - Here, you will see my personal projects as well as my course projects so far.
 - I am currently working on my capstone project at the University of Regina.
 - My portfolio website is live. You can visit and see my most recent works. I will be updating with my capstone and others soon!
-- I am currently learning AWS and preparing for the Solutions Architect Asssocite Certification
+- I am currently learning AWS and preparing for the Solutions Architect Associate Certification
 
