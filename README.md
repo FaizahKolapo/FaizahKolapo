@@ -5,6 +5,5 @@ expectations and an interest in security. Proficient in creating user-friendly
 and visually appealing interfaces, with a passion for using
 emerging technologies for enhanced user experience.
 
-- Here, you will see my personal projects as well as my course projects so far.
-- My portfolio website is live. You can visit and see my most recent works. I will be updating with my capstone and others soon!
+- Here, you will see my personal projects as well as my course projects.
 
